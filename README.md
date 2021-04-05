@@ -1,6 +1,6 @@
 # sorting
 
-###1. Selection Sort
+### 1. Selection Sort
 
 * 시간 복잡도 O(n^2)
 * 설명 
@@ -28,4 +28,4 @@ public static void selection(int[] data){
     }
 ```
 
-###2. Insertion Sort
+### 2. Insertion Sort
