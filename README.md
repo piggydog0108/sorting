@@ -128,7 +128,7 @@ public class QuickSort {
 ```
 
 ###5. Merge Sort
-* 시간 복잡도 
+* 시간 복잡
 
 
 
