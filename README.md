@@ -1,4 +1,4 @@
-# sorting
+# Sorting
 
 ### 1. Selection Sort
 * 시간 복잡도 O(N^2)
